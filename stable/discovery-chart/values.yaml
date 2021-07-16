@@ -5,7 +5,7 @@ org: open-cluster-management
 
 global:
   pullPolicy: Always
-  pullSecret: null
+  pullSecret: ""
   arch:
   - amd64
   - ppc64le
